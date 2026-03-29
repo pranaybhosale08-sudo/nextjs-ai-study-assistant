@@ -1,0 +1,1 @@
+export default function Page() { return <main><h1>AI Study Assistant</h1></main>; }
